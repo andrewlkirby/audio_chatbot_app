@@ -7,7 +7,7 @@ import os
 configs = types.GenerateContentConfig(max_output_tokens=200,
                                       temperature=0.5
                                       )
-client = genai.Client(api_key="AIzaSyBvH3eNUR3WM_XjB1uioWsldJ07PthfYIc")
+client = genai.Client(api_key="YOUR-API-KEY")
 
 tts_pipeline = KPipeline(lang_code='a')
 
