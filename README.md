@@ -5,3 +5,4 @@ Chat app with speech-to-text and text-to-speech. To run, simply run `main.py`. M
 - `PyQt` for the app interface
 - Gemini API for chat
 - Includes PDF parsing via PyMuPDF as a quick knowledge base
+- `demo.mov` contains a quick video demo
