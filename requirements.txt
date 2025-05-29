@@ -1,0 +1,10 @@
+dotenv
+SpeechRecognition
+kokoro
+soundfile
+PyQt5
+google-genai
+torch
+soundfile
+sounddevice
+pymupdf
